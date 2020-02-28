@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f514e98-748c-436a-a253-df8c8aabfc1c" name="Default Changelist" comment="" />
+    <list default="true" id="7f514e98-748c-436a-a253-df8c8aabfc1c" name="Default Changelist" comment="npm init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582873577358</updated>
       <workItem from="1582873579221" duration="1962000" />
+      <workItem from="1582875591351" duration="397000" />
     </task>
     <task id="LOCAL-00001" summary="初始化仓库 安装vue 和 parcel">
       <created>1582873835134</created>
@@ -78,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582875521395</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="npm init">
+      <created>1582875807538</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582875807538</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,9 +98,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初始化仓库 安装vue 和 parcel" />
     <MESSAGE value="安装parcel，新增app.js" />
-    <MESSAGE value="npm init" />
     <MESSAGE value="npm install vue" />
-    <option name="LAST_COMMIT_MESSAGE" value="npm install vue" />
+    <MESSAGE value="npm init" />
+    <option name="LAST_COMMIT_MESSAGE" value="npm init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1129" y="238" key="#Notifications" timestamp="1582875315328">
@@ -100,10 +111,10 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="1161" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1152@0.0.2048.1152" timestamp="1582875426292" />
-    <state x="868" y="88" key="CommitChangelistDialog2" timestamp="1582875503073">
+    <state x="868" y="88" key="CommitChangelistDialog2" timestamp="1582875812158">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="868" y="88" key="CommitChangelistDialog2/0.0.2048.1152@0.0.2048.1152" timestamp="1582875503073" />
+    <state x="868" y="88" key="CommitChangelistDialog2/0.0.2048.1152@0.0.2048.1152" timestamp="1582875812158" />
     <state x="1310" y="335" key="FileChooserDialogImpl" timestamp="1582875543798">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>

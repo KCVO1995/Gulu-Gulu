@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/KCVO1995/Gulu-Gulu/issues"
   },
-  "homepage": "https://github.com/KCVO1995/Gulu-Gulu#readme"
+  "homepage": "https://github.com/KCVO1995/Gulu-Gulu#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
 }
