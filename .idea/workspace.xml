@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f514e98-748c-436a-a253-df8c8aabfc1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YQSyK1eO8ganhO9DUcjqBQKx8L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f514e98-748c-436a-a253-df8c8aabfc1c" name="Default Changelist" comment="" />
+      <created>1582873577358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582873577358</updated>
+      <workItem from="1582873579221" duration="1962000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始化仓库 安装vue 和 parcel">
+      <created>1582873835134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582873835134</updated>
+    </task>
+    <task id="LOCAL-00002" summary="npm init">
+      <created>1582875251913</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582875251913</updated>
+    </task>
+    <task id="LOCAL-00003" summary="npm install vue">
+      <created>1582875521395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582875521395</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化仓库 安装vue 和 parcel" />
+    <MESSAGE value="安装parcel，新增app.js" />
+    <MESSAGE value="npm init" />
+    <MESSAGE value="npm install vue" />
+    <option name="LAST_COMMIT_MESSAGE" value="npm install vue" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1129" y="238" key="#Notifications" timestamp="1582875315328">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1129" y="238" key="#Notifications/0.0.2048.1152@0.0.2048.1152" timestamp="1582875315328" />
+    <state x="1161" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582875426292">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1161" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1152@0.0.2048.1152" timestamp="1582875426292" />
+    <state x="868" y="88" key="CommitChangelistDialog2" timestamp="1582875503073">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="868" y="88" key="CommitChangelistDialog2/0.0.2048.1152@0.0.2048.1152" timestamp="1582875503073" />
+    <state x="1310" y="335" key="FileChooserDialogImpl" timestamp="1582875543798">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1310" y="335" key="FileChooserDialogImpl/0.0.2048.1152@0.0.2048.1152" timestamp="1582875543798" />
+  </component>
+</project>
